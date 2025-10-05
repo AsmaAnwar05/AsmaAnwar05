@@ -42,7 +42,8 @@
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AsmaAnwar05&theme=tokyonight)](https://git.io/streak-stats)
+![Asma's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsmaAnwar05&show_icons=true&theme=radical)
+
 
 
 ## 🔥 Most Used Languages
