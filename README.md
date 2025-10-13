@@ -1,28 +1,31 @@
 <h1 align="center">Hi 👋, I'm Asma Anwar</h1>
-<h3 align="center">A passionate Frontend Developer from Bangladesh</h3>
+<h3 align="center">A passionate Full-Stack Web Developer from Bangladesh</h3>
+- 💻 Currently focusing on **Frontend & Backend development** with React, Node.js, Express, and Next.js
 
-- 🌱 I’m currently learning **React JS**
-
-- 💬 Ask me about **HTML, CSS, JavaScript, Tailwind CSS**
-
-- 📫 How to reach me: **asmaanwar1119@gmail.com**
-
-- ⚡ Fun fact: *I love to turn ideas into beautiful and functional websites!*
+- 🌱 I’m currently learning **Express.js, Next.js**  
+- 🌟 Skilled in: **HTML, CSS, JavaScript, Tailwind CSS, React, Node.js (CommonJS & ES Modules), Express, Next.js**  
+- 📫 How to reach me: **asmaanwar1119@gmail.com**  
+- ⚡ I love to turn ideas into beautiful and functional websites!*  
 
 ---
+
 ## 🛠 Technologies and Tools
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+!![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 🧰 Additional Skills
+## 🧰 Programming & Additional Skills
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -34,6 +37,7 @@
 ![Word](https://img.shields.io/badge/Word-2B579A?style=flat&logo=microsoft-word&logoColor=white)
 
 ---
+
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -44,8 +48,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AsmaAnwar05&theme=radical)](https://git.io/streak-stats)
 
-
-
+---
 
 ## 🔥 Most Used Languages
 
@@ -55,17 +58,22 @@
 
 ---
 
+## 💻 Full-Stack Learning Path
+
+- ✅ Frontend: HTML, CSS, JavaScript, Tailwind CSS, React JS  
+- ✅ Backend: Node.js (CommonJS & ES Modules), Express.js, Next.js (API routes)  
+- 🔄 Database: Learning MongoDB / SQL for full-stack apps  
+- 📂 Projects: Planning to build full-stack web applications with React + Node.js + Express + Next.js  
+
+---
+
 ## 📫 Connect with me
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/share/1KF3R5W7LJ/?mibextid=wwXIfr)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:asmaanwar1119@gmail.com)
-<!-- Add your LinkedIn later like this:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourusername])
--->
 
 ---
 
 ## ✨ Quote to Remember
 
 > *"Stay curious. Keep learning. Build amazing things."*
-
