@@ -46,7 +46,7 @@
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AsmaAnwar05&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AsmaAnwar05&theme=radical)](https://git.io/streak-stats)
 
 ---
 
