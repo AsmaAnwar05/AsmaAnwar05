@@ -44,6 +44,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AsmaAnwar05&show_icons=true&theme=radical" alt="Asma's GitHub stats" />
 </p>
 
+## GitHub Streak
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AsmaAnwar05&show_icons=true&theme=radical)
+
 ## 🔥 GitHub Streak
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AsmaAnwar05&theme=radical)](https://git.io/streak-stats)
