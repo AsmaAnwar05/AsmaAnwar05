@@ -44,12 +44,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AsmaAnwar05&show_icons=true&theme=radical" alt="Asma's GitHub stats" />
 </p>
 
-[![Asma's Activity Graph](https://activity-graph.herokuapp.com/graph?username=AsmaAnwar05&theme=react-dark)](https://github.com/AsmaAnwar05)
+
 
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AsmaAnwar05&theme=radical)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=AsmaAnwar05&theme=dark&date_format=j%20M%5B%20Y%5D)
 
 ---
 
