@@ -40,14 +40,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AsmaAnwar05&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AsmaAnwar05&theme=tokyonight" />
-</
-
-
 ---
 
 ## 🧰 Programming & Additional Skills
@@ -62,11 +54,17 @@
 ![Word](https://img.shields.io/badge/Word-2B579A?style=flat&logo=microsoft-word&logoColor=white)
 
 ---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AsmaAnwar05&show_icons=true&theme=synthwave" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AsmaAnwar05&theme=tokyonight" />
+</
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AsmaAnwar05&show_icons=true&theme=radical" alt="Asma's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AsmaAnwar05&show_icons=true&theme=nightowl" alt="Asma's GitHub stats" />
 </p>
 
 
@@ -74,7 +72,7 @@
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=AsmaAnwar05&theme=radical&date_format=j%20M%5B%20Y%5D)
+![GitHub Streak](https://streak-stats.demolab.com/?user=AsmaAnwar05&theme=aura&date_format=j%20M%5B%20Y%5D)
 
 ---
 
