@@ -1,27 +1,52 @@
 <h1 align="center">Hi 👋, I'm Asma Anwar</h1>
-<h3 align="center">A passionate Full-Stack Web Developer from Bangladesh</h3>
-- 💻 Currently focusing on **Frontend & Backend development** with React, Node.js, Express, and Next.js
-
-- 🌱 I’m currently learning **Express.js, Next.js**  
-- 🌟 Skilled in: **HTML, CSS, JavaScript, Tailwind CSS, React, Node.js (CommonJS & ES Modules), Express, Next.js**  
-- 📫 How to reach me: **asmaanwar1119@gmail.com**  
-- ⚡ I love to turn ideas into beautiful and functional websites!*  
+<h3 align="center">Full-Stack Web Developer (Learning by Building Projects)</h3>
 
 ---
 
-## 🛠 Technologies and Tools
+### 👩‍💻 About Me
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-!![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+- 🎓 I’ve completed the **Sigma Web Development Course by CodeWithHarry**, covering both frontend and backend fundamentals.  
+- 💻 Now I’m **learning through projects** — building real-world apps using **React, Node.js, Express, and Next.js**.  
+- 🌱 Currently exploring **APIs, authentication, MongoDB**, and **Next.js full-stack features**.  
+- ⚡ I believe the best way to learn is by **building and experimenting**.  
+- 📫 Reach me at: **asmaanwar1119@gmail.com**
+
+---
+
+## 🧠 Skills (So Far)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
+</p>
+
+---
+
+## 🛠 Tools I Use
+
+- 🧩 **Frontend:** React, Tailwind CSS  
+- ⚙️ **Backend:** Node.js, Express  
+- 💾 **Database:** MongoDB  
+- 🧠 **Version Control:** Git & GitHub  
+- 🧰 **Editor:** VS Code  
+- 🚀 **Deployment:** Vercel, Render  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AsmaAnwar05&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AsmaAnwar05&theme=tokyonight" />
+</
+
 
 ---
 
