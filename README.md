@@ -10,6 +10,8 @@
 - 🌱 Currently exploring **APIs, authentication, MongoDB**, and **Next.js full-stack features**.  
 - ⚡ I believe the best way to learn is by **building and experimenting**.  
 - 📫 Reach me at: **asmaanwar1119@gmail.com**
+-     Codeforce: https://codeforces.com/profile/asmaanwar1126
+-     Linkedin: https://www.linkedin.com/in/asmaanwar05/
 
 ---
 
