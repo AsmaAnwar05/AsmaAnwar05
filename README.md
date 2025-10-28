@@ -6,7 +6,7 @@
 ### 👩‍💻 About Me
 
 - 🎓 I’ve completed the **Web Development Course**, covering both frontend and backend fundamentals.  
-- 💻 Now I’m **learning through projects** — building real-world apps using **React, Node.js, Express, and Next.js**.  
+- 💻 Now I’m **learning through projects** — building real-world apps using **React, Node.js, Express, and Next.js** 
 - 🌱 Currently exploring **APIs, authentication, MongoDB**, and **Next.js full-stack features**.  
 - ⚡ I believe the best way to learn is by **building and experimenting**.  
 - 📫 Reach me at: **asmaanwar1119@gmail.com**
